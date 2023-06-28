@@ -6,7 +6,7 @@ function App() {
     <>
       <div className="home">
 
-        <img src="public/assets/logo.png" alt=""
+        <img src="public/assets/logo.jpeg" alt=""
           style={{
             width: '900px'
           }}
