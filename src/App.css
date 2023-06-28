@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&family=PT+Serif:wght@700&display=swap');
+
+body {
+  background: #F9F2EA;
+  padding: 40px;
+}
+
+img {
+  width: 900px;
+}
+
+.text {
+  padding-left: 35px;
+}
+
+p {
+  font-family: 'PT Mono', monospace;
+  font-size: 18px;
+  color: #2E2D2F;
+}
+
+.info {
+  border-bottom: solid 2px #FF9F1C;
+}
+
+.date {
+  font-family: 'PT Serif', serif;
+}
