@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div className="home">
-        <img src="../src/assets/logo.png" alt="Logo" />
+        <img src="public/logo.png" alt="Logo" />
         <div className='text'>
           <p>
             Patricia's <span className='info'>about, works, and contact</span> will be live on
