@@ -1,4 +1,5 @@
 import './App.css'
+import logo from 'public/assets/logo.jpeg'
 
 function App() {
 
@@ -6,7 +7,7 @@ function App() {
     <>
       <div className="home">
 
-        <img src="public/assets/logo.jpeg" alt=""
+        <img src={logo} alt=""
           style={{
             width: '900px'
           }}
