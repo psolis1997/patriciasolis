@@ -1,5 +1,5 @@
 import './App.css'
-import logo from 'public/assets/logo.jpeg'
+import logo from '/assets/logo.jpeg'
 
 function App() {
 
